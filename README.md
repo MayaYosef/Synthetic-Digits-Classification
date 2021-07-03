@@ -12,16 +12,16 @@ contains:
 - the model layers
 
 in order to run the project use python 3.7. You also can run it on anaconda prompt on python 3.8.8. Before running, download the following modules:
-the moudle - download command
-keras      -	pip install keras
-tensorflow -	pip install tensorflow
-matplotlib -	pip install matplotlib
-imutils    -	pip install imutils
-numpy      -	pip install numpy
-opencv     -	pip install opencv-python
-PIL	pip    - install Pillow
-sklearn    -	pip install -U scikit-learn
-colorama   -	pip install colorama
+- the moudle - - download command
+- keras      -	- pip install keras
+- tensorflow -	- pip install tensorflow
+- matplotlib -	- pip install matplotlib
+- imutils    -	- pip install imutils
+- numpy      -	- pip install numpy
+- opencv     -	- pip install opencv-python
+- PIL	     -  - pip install Pillow
+- sklearn    -	- pip install -U scikit-learn
+- colorama   -	- pip install colorama
 
 
 In addition, you should update the paths in the file config.py. 
