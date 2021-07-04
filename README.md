@@ -27,3 +27,5 @@ in order to run the project use python 3.7. You also can run it on anaconda prom
 In addition, you should update the paths in the file config.py. 
 
 On your first running, first press the button "extract zip files" in order to extract the files of the dataset and the images for prediction. 
+
+I could not upload the dataset together because it is a large file so I splited it. You can unite it.
