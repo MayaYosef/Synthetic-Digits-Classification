@@ -32,7 +32,7 @@ def graphs(H, plot_path, epoches):
 
 def graph1(H, plot_path1, epoches):
     """ 
-    Creates a png image file in which it draws the learning graph of the model and showing it at the end of the training.
+    Creates a png image file in which it draws the learning graph of the model, saving it and showing it at the end of the training.
     (traning & validation accuracy & loss)
     
     param H: the history of the model training
@@ -56,7 +56,7 @@ def graph1(H, plot_path1, epoches):
 
 def graph2(H, plot_path2):
     """
-    Creates a png image file in which it draws the learning graph of the model and showing it after the user closed the first plot.
+    Creates a png image file in which it draws the learning graph of the model, saving it and showing it after the user closed the first plot.
     (traning & validation cross entropy loss)
     
     param H: the history of the model training
@@ -74,7 +74,7 @@ def graph2(H, plot_path2):
     
 def graph3(H, plot_path3):
     """
-    Creates a png image file in which it draws the learning graph of the model and showing it after the user closed the second plot.
+    Creates a png image file in which it draws the learning graph of the model, saving it and showing it after the user closed the second plot.
     (traning & validation classification accuracy)
     
     param H: the history of the model training
